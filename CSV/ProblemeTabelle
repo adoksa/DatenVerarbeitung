@@ -1,0 +1,9 @@
+p_id,r_id,s_id,description
+1,2,1,Luft
+2,1,1,Flecken im Wand
+3,4,2,Kein funktionierende Komputer
+4,6,3,Flecken im Wand
+5,5,1,Projektor
+6,7,1,Nicht sauber
+7,7,1,Keine Toilettenpapier
+8,3,1,Schimmel
