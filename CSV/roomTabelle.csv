@@ -1,0 +1,10 @@
+r_id,g_id,room_name,room_type
+1,1,K27,Classroom
+2,1,MLAB,ComputerRoom
+3,1,Laborator,ScienceRoom
+4,2,HLAB,ComputerRoom
+5,2,PR1,ComputerRoom
+6,2,CLAB,ComputerRoom
+7,3,GirlsRoom,ChangingRoom
+8,3,BoysRoom,ChangingRoom
+9,3,TeachersRoom,ChangingRoom
