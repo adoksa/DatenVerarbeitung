@@ -1,0 +1,8 @@
+room_name,room_type,status_name,problem_count
+MLAB,ComputerRoom,Open,1
+K27,Classroom,Open,1
+PR1,ComputerRoom,Open,1
+GirlsRoom,ChangingRoom,Open,2
+Laborator,ScienceRoom,Open,1
+HLAB,ComputerRoom,Working,1
+CLAB,ComputerRoom,Finished,1
